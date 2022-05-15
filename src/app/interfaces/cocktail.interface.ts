@@ -1,5 +1,5 @@
 export interface Cocktail {
   name: string;
-  img: string;
+  img?: string;
   description: string;
 }
